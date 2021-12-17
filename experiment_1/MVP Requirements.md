@@ -44,6 +44,7 @@ Example identifiers:
 - Named vuln
 	- Heartbleed - https://globalsecuritydatabase.org/identifier/Heartbleed
 	- BigSig - https://globalsecuritydatabase.org/identifier/BigSig
+	- Log4Shell - https://globalsecuritydatabase.org/identifier/Log4Shell
 
 ---
 
